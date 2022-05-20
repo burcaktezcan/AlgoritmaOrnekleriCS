@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Kullanıcının_girdiği_iki_sayının_toplamını_veren_program
+build_property.ProjectDir = C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Kullanıcının girdiği iki sayının toplamını veren program\

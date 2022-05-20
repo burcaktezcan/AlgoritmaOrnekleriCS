@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Kullanıcının_girdiği_iki_sayının_toplamını_veren_program</RootNamespace>
+  </PropertyGroup>
+
+</Project>

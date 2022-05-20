@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Doğum_tarihi_girilen_kişinin_yaşını_hesaplayan_program
+build_property.ProjectDir = C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\

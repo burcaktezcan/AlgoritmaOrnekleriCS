@@ -1,0 +1,16 @@
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.exe
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.deps.json
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.runtimeconfig.json
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.runtimeconfig.dev.json
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.dll
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\ref\Doğum tarihi girilen kişinin yaşını hesaplayan program.dll
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\bin\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.pdb
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.AssemblyInfoInputs.cache
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.AssemblyInfo.cs
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.csproj.CoreCompileInputs.cache
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.dll
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\ref\Doğum tarihi girilen kişinin yaşını hesaplayan program.dll
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.pdb
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.genruntimeconfig.cache
+C:\Users\SC-204 2\source\repos\AlgoritmaOrnekleriCS\Doğum tarihi girilen kişinin yaşını hesaplayan program\obj\Debug\net5.0\Doğum tarihi girilen kişinin yaşını hesaplayan program.csproj.AssemblyReference.cache
